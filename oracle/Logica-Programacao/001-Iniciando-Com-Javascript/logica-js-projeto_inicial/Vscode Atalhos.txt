@@ -1,0 +1,2 @@
+ctrl + shift + ' : abre o terminal
+ctrl + tab : volta para o editor
