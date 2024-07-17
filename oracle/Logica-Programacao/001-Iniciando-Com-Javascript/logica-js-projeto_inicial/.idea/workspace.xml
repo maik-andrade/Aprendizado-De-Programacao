@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75da611e-9894-48f4-bd30-f568eddfee29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/img/JS Game.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/img/JS Game_files/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/img/JS Game_files/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/img/Ruido.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/img/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/img/code.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/img/robot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/img/trophy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../001-Iniciando-Com-Javascript/logica-js-projeto_inicial/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2ikeum89qXMktaCZrTUUizkyPqe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.app.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature-1.0",
+    "last_opened_file_path": "/home/maik/Estudos/dev/programacao-estudos/Alura-Oracle/Logica-De-Programacao/001-Iniciando-Com-Javascript/logica-js-projeto_inicial",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.intellij.lang.javascript.buildTools.npm.rc.StartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" start="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75da611e-9894-48f4-bd30-f568eddfee29" name="Changes" comment="" />
+      <created>1720039226419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720039226419</updated>
+      <workItem from="1720039227468" duration="696000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
